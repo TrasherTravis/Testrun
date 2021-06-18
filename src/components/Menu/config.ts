@@ -21,11 +21,11 @@ const config: MenuEntry[] = [
       },
       {
         label: 'Exchange',
-        href: 'https://exchange.pancakeswap.finance/#/swap',
+        href: 'https://exchange.pancakeswap.finance/#/swap?inputCurrency=0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c&outputCurrency=0x0a950ac7f14a4982cee3bf24adb1dad17e0a9026',
       },
       {
         label: 'Liquidity',
-        href: 'https://exchange.pancakeswap.finance/#/pool',
+        href: 'https://exchange.pancakeswap.finance/#/add/BNB/0x0A950AC7f14a4982Cee3BF24AdB1dAD17E0A9026',
       },
       {
         label: 'V1 Liquidity (Old)',
